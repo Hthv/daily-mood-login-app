@@ -1,0 +1,10 @@
+# personal data – never upload
+data/
+
+# Python environment and temporary files
+.venv/
+__pycache__/
+
+# Mac and editor files
+.DS_Store
+.vscode/
